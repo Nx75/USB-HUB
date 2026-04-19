@@ -1,0 +1,196 @@
+{
+  "uuid": "fc54e0d4c65ba3b1abf5e31636744bbf",
+  "path": "Offline/USB%20HUB",
+  "name": "USB HUB",
+  "content": "",
+  "created_at": "2026-04-18 13:47:33",
+  "updated_at": "2026-04-18 18:58:52",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b3aac1f9f7cce921d70abf8dbd98a1af",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0b584390dd864e73b6888beac22117c2": 1,
+        "8da16a7f1e1c4a06952acc412b337b14": 4,
+        "24eeb2ceca08480b92b847b6a310acda": 7,
+        "81d0ceff918243679765910720a50de4": 1,
+        "d9ffc0d3433410e083ddbbbfe2049903": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          7,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "NSR0320MW2T1G",
+          1,
+          "SOD-323_L1.8-W1.3-LS2.5-RD",
+          "D1",
+          {
+            "Manufacturer Part": "NSR0320MW2T1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C48192"
+          }
+        ],
+        [
+          "SL2.1A",
+          1,
+          "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "SL2.1A",
+            "Manufacturer": "CoreChips(和芯润德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C192893"
+          }
+        ],
+        [
+          "USB-AF-90-14.4X13.6-H7.0-DIP",
+          4,
+          "USB-A-TH_C46407",
+          "USB1,USB2,USB3,USB4",
+          {
+            "Manufacturer Part": "903-131A1011D10100",
+            "Manufacturer": "精拓金",
+            "Supplier": "LCSC",
+            "Supplier Part": "C46407"
+          }
+        ],
+        [
+          "U-G-04DD-W-01",
+          1,
+          "USB-A-TH_U-G-04WD-W-01",
+          "USB5",
+          {
+            "Manufacturer Part": "U-G-O4DD-W-1",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C98125"
+          }
+        ]
+      ],
+      "updateTime": 1776518032,
+      "createTime": 1776499353,
+      "histories": [],
+      "created_at": "2026-04-18 13:47:33",
+      "updated_at": "2026-04-18 18:58:52"
+    },
+    {
+      "uuid": "7f27b7e5d535595015c215df5404b1a9",
+      "puuid": "fc54e0d4c65ba3b1abf5e31636744bbf",
+      "title": "PCB_USB HUB",
+      "filename": "PCB_USB HUB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "dd3cfd4941c4479cb7f2c598e6fde06c": 1,
+        "bf1b7b0953d842979fbb5acfa9df7d18": 1,
+        "cd38c4a1c1a3407ba9c8fbbc77ac30b4": 4,
+        "9b2811d4e7cc4ff1a23eacd12575aecc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          7,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "NSR0320MW2T1G",
+          1,
+          "SOD-323_L1.8-W1.3-LS2.5-RD",
+          "D1",
+          {
+            "Manufacturer Part": "NSR0320MW2T1G",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C48192"
+          }
+        ],
+        [
+          "SL2.1A",
+          1,
+          "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "SL2.1A",
+            "Manufacturer": "CoreChips(和芯润德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C192893"
+          }
+        ],
+        [
+          "USB-AF-90-14.4X13.6-H7.0-DIP",
+          4,
+          "USB-A-TH_C46407",
+          "USB1,USB2,USB3,USB4",
+          {
+            "Manufacturer Part": "903-131A1011D10100",
+            "Manufacturer": "精拓金",
+            "Supplier": "LCSC",
+            "Supplier Part": "C46407"
+          }
+        ],
+        [
+          "U-G-04DD-W-01",
+          1,
+          "USB-A-TH_U-G-04WD-W-01",
+          "USB5",
+          {
+            "Manufacturer Part": "U-G-O4DD-W-1",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C98125"
+          }
+        ]
+      ],
+      "updateTime": 1776507298,
+      "createTime": 1776507246,
+      "histories": [],
+      "created_at": "2026-04-18 15:59:06",
+      "updated_at": "2026-04-18 15:59:58"
+    }
+  ],
+  "sort": [],
+  "title": "USB HUB",
+  "foldername": "USB HUB",
+  "schfilename": "USB HUB.json",
+  "schfilemtime": 1776518032650
+}
