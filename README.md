@@ -4,7 +4,8 @@
 <img width="1149" height="808" alt="image" src="https://github.com/user-attachments/assets/12f4a93c-9753-4147-bfd4-70eac8405531" />
 
 ## Boardview
-<img width="1149" height="808" alt="image" src="https://github.com/user-attachments/assets/2058ecee-520a-4018-97ec-70ec75c2e735" />
+<img width="1192" height="801" alt="image" src="https://github.com/user-attachments/assets/291b8620-3593-4412-ae67-0b04ae39d01a" />
+
 
 ## 3d view 
 
